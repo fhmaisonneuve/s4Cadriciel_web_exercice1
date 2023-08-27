@@ -26,4 +26,8 @@ class ExerciceController extends Controller
     {
         return view('contact');
     }
+
+    public function contactForm(Request $request){
+        return view('contact-post', ['data' => $request]);
+    }
 }
