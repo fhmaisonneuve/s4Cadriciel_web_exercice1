@@ -13,7 +13,7 @@
                             <div class="text-uppercase">Programmeur &middot; Fullstack &middot; Frontend &middot; Backend
                             </div>
                         </div>
-                        <div class="fs-3 fw-light text-muted">Je peux être le facilitateur pour tout programmation</div>
+                        <div class="fs-3 fw-light text-muted">Je peux être le facilitateur pour toute programmation</div>
                         <h1 class="display-3 fw-bolder mb-5"><span class="text-gradient d-inline"> front-end et backend</span></h2>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
                             <a class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="resume.html">CV</a>
