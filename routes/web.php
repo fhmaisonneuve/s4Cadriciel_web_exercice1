@@ -21,4 +21,9 @@ Route::get('/', function () {
 Route::get('/home', [ExerciceController::class, 'index']);
 Route::get('/resume', [ExerciceController::class, 'resume']);
 Route::get('/projects', [ExerciceController::class, 'projects']);
+
+// Afficher le formulaire de contact
 Route::get('/contact', [ExerciceController::class, 'contact']);
+
+// Gérer le formulaire de contact(post)
+Route::post('/contact', [ExerciceController::class, 'contactForm']);
