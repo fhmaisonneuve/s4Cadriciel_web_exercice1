@@ -26,7 +26,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
             <div class="container px-5">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="home">
                     <div class="badge bg-gradient-primary-to-secondary text-whsite msb-4">Francois Hébert: Programmeur
                         FULL STACK </div>
                 </a>
