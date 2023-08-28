@@ -32,7 +32,6 @@
                 </a>
                 <!-- <a class="navbar-brand" href="index.html"><span class="fw-bolder text-primary">Start
                         Bootstrap</span></a> -->
-
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
@@ -57,12 +56,12 @@
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                     <div class="col-auto">
-                        <div class="small m-0">Copyright &copy; Your Website 2023</div>
+                        <div class="small m-0">Copyright &copy; François Hébert 2023</div>
                     </div>
                     <div class="col-auto">
-                        <a class="small" href="#!">Privacy</a>
+                        <a class="small" href="#!">Confidentialité</a>
                         <span class="mx-1">&middot;</span>
-                        <a class="small" href="#!">Terms</a>
+                        <a class="small" href="#!">Termes</a>
                         <span class="mx-1">&middot;</span>
                         <a class="small" href="#!">Contact</a>
                     </div>
