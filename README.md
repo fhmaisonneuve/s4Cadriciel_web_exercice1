@@ -4,6 +4,16 @@ Exercice1 : Laravel
 
 par:  François Hébert (e2296133) 
 
+## DOCUMENTATION
+
+RÉFÉRENCES:
+
+- THEME UTILISÉ: Nom du thême: **[PERSONAL(startbootstrap.com)](https://startbootstrap.com/theme/personal#google_vignette)** 
+  (Personal is a modern, clean website theme perfect for professionals, creators, or businesses.)
+- LIEN VERS LE GITHUB: **[GIT DU PROJET](https://github.com/fhmaisonneuve/s4Cadriciel_web_exercice1/)**
+- LIEN VERS LE PROJET(WEBDEV): **[https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/](https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/)** 
+   
+
 ## REQUIS DÉMANDÉS
 
 - [x] 1. Avec la ligne de commande, créer un nouveau projet Laravel (2 pt)
@@ -43,13 +53,6 @@ php artisan  make:controller ExerciceController
 
 
 
-## DOCUMENTATION
 
-RÉFÉRENCES:
-
-- THEME UTILISÉ: Nom du thême: **[PERSONAL(startbootstrap.com)](https://startbootstrap.com/theme/personal#google_vignette)** 
-  (Personal is a modern, clean website theme perfect for professionals, creators, or businesses.)
-- LIEN VERS LE GITHUB: **[GIT DU PROJET](https://github.com/fhmaisonneuve/s4Cadriciel_web_exercice1/)**
-- LIEN VERS LE PROJET(WEBDEV): **[WEBDEV/EXERCICE1](https://e2296133.webdev.cmaisonneuve.qc.ca/cadricielexercice1/)** ()
 
 
