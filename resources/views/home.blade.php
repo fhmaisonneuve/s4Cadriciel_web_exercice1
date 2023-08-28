@@ -327,7 +327,7 @@
                     <div class="text-center my-5">
                         <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">Coder et construire...</span></h2>
                         <p class="lead fw-light mb-4">Mon nom est François Hébert et je contribue à développer des projets innovants.</p>
-                        <p class="text-muted">J'ai eu par le passé le bonheur de contribuer a développer des dizaines de projet, de superviser des équipes.  La programmation étant ma plaus grande passion je me suis spécialisé come programmeur web fronend et backend.  </p>
+                        <p class="text-muted">Tout au long de ma carrière, j'ai eu le bonheur de motiver et superviser des équipes à la réalisation de projets variés, de parfaire les budgets, de consolider des audits de sécurité et d'améliorer des processus par l'automatisation et l'optimisation afin de réduire les coûts opérationnels de ceux-ci. <br><br> Je suis actuellement à la recherche d'un poste programmeur web</p>
                         <div class="d-flex justify-content-center fs-2 gap-4">
                             <a class="text-gradient" href="https://twitter.com/FH_Dev" target="_blank"><i class="bi bi-twitter"></i></a>
                             <a class="text-gradient" href="https://www.linkedin.com/in/francois-h%C3%A9bert-20b36555/" target="_blank"><i class="bi bi-linkedin"></i></a>

@@ -16,8 +16,8 @@
                                     <div class="d-flex align-items-center">
                                         <div class="p-5">
                                             <h2 class="fw-bolder">Stampee</h2>
-                                            <p>Plateforme d'enchère de timbre.  Single PageApplication PHP+js sans utiliser de framework spécifique pour faciliter le travail.</p>
-                                            <a href="https://e2296133.webdev.cmaisonneuve.qc.ca/stampee/">Appercu</a>
+                                            <p>Plateforme d'enchère de timbre.  Single Page Application PHP+js sans utiliser de framework spécifique pour faciliter le travail.</p>
+                                            <a href="https://e2296133.webdev.cmaisonneuve.qc.ca/stampee/">Apercu</a>
 
                                         </div>
                                         <img class="img-fluid" src="assets/projets/projet1.png" alt="..." /> 
@@ -32,7 +32,7 @@
                                         <div class="p-5">
                                         <h2 class="fw-bolder">Cadriciel - Exercice 1</h2>
                                         <p>Exercice laravel en utilisant laravel/boostrap pour faire une spa avec un formulaire.</p>
-                                            <a href="https://e2296133.webdev.cmaisonneuve.qc.ca/exercice1a/">Appercu</a>
+                                            <a href="https://e2296133.webdev.cmaisonneuve.qc.ca/exercice1a/">Apercu</a>
 
                                         </div>
                                         <img class="img-fluid" src="assets/projets/projet2.png" alt="..." /> 
